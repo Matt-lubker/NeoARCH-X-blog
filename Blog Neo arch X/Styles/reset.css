@@ -2,7 +2,7 @@
     font: 20px/1.2 "Roboto", sans-serif; /* Sets the base font family and size */
 }
 
-body,
+
 body  * {
     margin:          unset;
     box-sizing:      unset;
